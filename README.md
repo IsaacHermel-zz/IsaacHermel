@@ -2,9 +2,12 @@
   Sou atualmente um estudante da área de Tecnologia da Informação de 18 anos localizado atualmente no Rio Grande do Sul. 🚩 Trabalho como estagiário no time de Sucesso do Cliente, e além disso, estudo por conta própria tecnologias como React e React Native as quais estou utilizando para desenvolver meu Trabalho de Conclusão de Curso. 📚
   
 ## Meus status no GitHub:
+<!-- ![Isaac Hermel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaachermel&show_icons=true&theme=dracula&border_radius=16&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&border_radius=16&hide_border=true&layout=compact)
+ -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=isaachermel&show_icons=true&theme=dracula&border_radius=16&hide_border=true" />
-<!--   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaachermel&theme=dracula&border_radius=16&hide_border=true" /> -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=isaachermel&show_icons=true&theme=dracula&border_radius=16&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&border_radius=16&hide_border=true&layout=compact"/>
 </div>
 
 ## Tecnologias as quais utilizo/possuo conhecimento
