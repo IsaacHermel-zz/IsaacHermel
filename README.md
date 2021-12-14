@@ -7,7 +7,7 @@
  -->
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=isaachermel&show_icons=true&theme=dracula&border_radius=16&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&border_radius=16&hide_border=true&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaachermel&show_icons=true&theme=dracula&border_radius=16&hide_border=true&layout=compact"/>
 </div>
 
 ## Tecnologias as quais utilizo/possuo conhecimento
